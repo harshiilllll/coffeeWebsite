@@ -105,7 +105,7 @@ body{
 	position: absolute;
 	top: 115%; right: 7%;
 	background: #fff;
-	width: 50rem;
+	width: 20rem;
 	height: 5rem;
 	display: flex;
 	align-items: center;
@@ -308,7 +308,7 @@ body{
 }
 
 .menu-card:hover{
-	background: #fff;
+	background: rgb(255, 255, 255);
 	color: var(--black);
 }
 
